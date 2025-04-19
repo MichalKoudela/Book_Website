@@ -1,65 +1,26 @@
 [
     {
-      "title": "První článek",
-      "date": "2025-04-18",
-      "text": "Toto je text prvního článku.",
+      "title": "Kontrola amerických imigrantů",
+      "date": "2025-4-18",
+      "text": "Americký úřad pro efektivitu vedený Elonem Muskem buduje databáy v DHS (Department of homeland security) pro sledování nelegálních imigrantů. \n Musk zároveň sbírá data o občanech z organů jako je IRS či SSA a buduje z nich informační platformu, s pomocí nichž může sledovat aktivity imigrantů. \n Informoval tak o tom portál Wired.com.",
       "image": "/images/article1.jpg"
     },
     {
-      "title": "Druhý článek",
-      "date": "2025-04-17",
-      "text": "Toto je text druhého článku.",
+      "title": "Nabourání 4chanu",
+      "date": "2025-04-15",
+      "text": "V pondělí tohoto týdne došlo k potencionálnímu napadení webového forá 4chan. To je znamé svou kontroverzí o podpoře nelegálního obsahu. Tento útok by mohl vést k odhalení identit uživatelů, včetně členů skupiny Anonymous. Informoval tak o tom portál Wired.com.",
       "image": "/images/article2.jpg"
     },
     {
-        "title": "Třetí článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
+        "title": "Konec CVE jak je známe?",
+        "date": "2025-04-16",
+        "text": "Společnost MITRE až dodnes používala CVE jako standard pro celosvětové sledování zranitelností. Tento program byl dotován americkýmy ográny, které by letos mohli toto ukončit. CISA americká organizace pro kybernetickou bezpečnost, by mohla pozastavit dotaci tohoto programu. \n Alterntativou pro CVE by tak bylo založení neziskové organziace CVE foundation, se stejným cílem, ale novými prostředky pro svou práci. Zdroj: Wired.com",
         "image": "/images/article3.jpg"
     },
     {
-        "title": "Čtvrtý článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
-        "image": "/images/article3.jpg"
-    },
-    {
-        "title": "Pátý článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
-        "image": "/images/article3.jpg"
-    },
-    {
-        "title": "Šestý článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
-        "image": "/images/article3.jpg"
+        "title": "Minecraft London",
+        "date": "2025-04-19",
+        "text": "Skupinka vývojářů strávila posledních několik let přestavením hlavního města Spojeného království v počítačové hře Minecraft. Strávily na tom více než 15 000 hodin a začali v roce 2020. Zdroj: BBC.com",
+        "image": "/images/article4.jpg"
     }
-    ,
-    {
-        "title": "Sedmý článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
-        "image": "/images/article3.jpg"
-    },
-    {
-        "title": "Osmi článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
-        "image": "/images/article3.jpg"
-    }
-    ,
-    {
-        "title": "Devátý článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
-        "image": "/images/article3.jpg"
-    },
-    {
-        "title": "Desátý článek",
-        "date": "2025-04-17",
-        "text": "Toto je text druhého článku.",
-        "image": "/images/article3.jpg"
-    }
-
   ]

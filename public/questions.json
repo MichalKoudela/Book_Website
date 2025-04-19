@@ -15,7 +15,7 @@
       "correct": "Enigma"
     },
     {
-      "question": "Lucifer je šifrvovací systém, kterého typu?",
+      "question": "Lucifer je šifrovací systém, kterého typu?",
       "answers": ["Bloková", "Proudová", "Asymetrická"],
       "correct": "Bloková"
     },

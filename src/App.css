@@ -75,6 +75,14 @@ h1 {
     border-radius: 8px;
 }
 
+.card img {
+  max-width: 100%; /* Obrázek se přizpůsobí šířce rodiče */
+  max-height: 150px; /* Maximální výška obrázku */
+  object-fit: contain; /* Zachování poměru stran */
+  border-radius: 8px; /* Zaoblení rohů obrázku */
+  margin-top: 1rem; /* Mezera mezi textem a obrázkem */
+}
+
 .home .columns {
     display: flex;
     gap: 1rem;
