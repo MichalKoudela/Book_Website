@@ -1,17 +1,86 @@
 [
     {
-      "question": "Jaký je hlavní město České republiky?",
-      "answers": ["Praha", "Brno", "Ostrava"],
-      "correct": "Praha"
-    },
-    {
-      "question": "Kolik je 2 + 2?",
-      "answers": ["3", "4", "5"],
-      "correct": "4"
-    },
-    {
-      "question": "Který jazyk je základem pro webové stránky?",
-      "answers": ["HTML", "Python", "C++"],
+      "question": "Jaký z těchto jazyků je základem pro webové stránky?",
+      "answers": ["HTML", "CSS", "JSS"],
       "correct": "HTML"
+    },
+    {
+      "question": "Který americký prezident je nazýván jako otec kryptografie?",
+      "answers": ["George Washington", "Abraham Lincoln", "Thomas Jefferson"],
+      "correct": "Thomas Jefferson"
+    },
+    {
+      "question": "Jak se jmenoval stroj prolomený Alanem Turingem?",
+      "answers": ["Colossus", "Enigma", "Bomba"],
+      "correct": "Enigma"
+    },
+    {
+      "question": "Lucifer je šifrvovací systém, kterého typu?",
+      "answers": ["Bloková", "Proudová", "Asymetrická"],
+      "correct": "Bloková"
+    },
+    {
+      "question": "Ve kterém roce byl předložen první návrh RSA?",
+      "answers": ["1967", "1977", "1969"],
+      "correct": "1977"
+    },
+    {
+      "question": "Co znamená zkratka WWW?",
+      "answers": ["World Wide Web", "World Wide Word", "World Wide Webs"],
+      "correct": "World Wide Web"
+    },
+    {
+      "question": "Přes který z těchto prohlížečů byste se dostali k dark webu?",
+      "answers": ["TOR", "Google", "Safari"],
+      "correct": "TOR"
+    },
+    {
+      "question": "GNU v kombinaci s jádrem od Linuse Torvaldse tvoří, který operační systém?",
+      "answers": ["Unix", "Windows", "Linux"],
+      "correct": "Linux"
+    }
+    ,
+    {
+      "question": "Který z těchto programovacích jazyků je nejstarší?",
+      "answers": ["Rust", "C", "Fortran"],
+      "correct": "Fortran"
+    },
+    {
+      "question": "Ve kterém roce byl vynaleznut jazyk C?",
+      "answers": ["1977", "1972", "1975"],
+      "correct": "1972"
+    },
+    {
+      "question": "Brainfuck patří do skupiny jakých programovacíh jazýků?",
+      "answers": ["Objektivně orientované", "Ezoterické", "Funkcionální"],
+      "correct": "Ezoterické"
+    }
+    ,
+    {
+      "question": "Deklaraci nezávislosti internetu napsal, která z těchto lidí?",
+      "answers": ["John Barlow", "Edward Snowden", "Fredrik Neij"],
+      "correct": "John Barlow"
+    },
+    {
+      "question": "Anonymous skupina vznikla údajně na které stránce ?",
+      "answers": ["WikiLeaks", "Pirates Bay", "4chan"],
+      "correct": "4chan"
+    }
+    ,
+    {
+      "question": "K čemu sloužil silk road?",
+      "answers": ["K černému digitálnímu obchodu", "K těžbě křemíku a jeho zpracování", "K obchodování s bitcoinem"],
+      "correct": "K černému digitálnímu obchodu"
+    },
+    {
+      "question": "Kdo je označován jako občan čtyři?",
+      "answers": ["Julian Assange", "Alan Turing", "Edward Snowden"],
+      "correct": "Edward Snowden"
+    }
+    ,
+    {
+      "question": "Ve kterém roce byla schválena směrnice GDPR?",
+      "answers": ["2016", "2014", "2015"],
+      "correct": "2016"
     }
   ]
